@@ -3925,21 +3925,21 @@
                 "len": 12
             },
             {
-                "datatype": "CN",
+                "datatype": "CN_PERSON",
                 "desc": "Attending Doctor",
                 "opt": 1,
                 "rep": 1,
                 "len": 60
             },
             {
-                "datatype": "CN",
+                "datatype": "CN_PERSON",
                 "desc": "Referring Doctor",
                 "opt": 1,
                 "rep": 1,
                 "len": 60
             },
             {
-                "datatype": "CN",
+                "datatype": "CN_PERSON",
                 "desc": "Consulting Doctor",
                 "opt": 1,
                 "rep": 0,
